@@ -36,11 +36,11 @@ To implement type casting.
 
 
 ## ALGORITHM :
-1.	
-2.
-3.
-4.
-5.
+1. Read four values from the user: an int, a double, a float, and a byte.
+2. Convert the integer value to double and print the result.
+3. Convert the double value to integer and print the result.
+4. Convert the float value to integer and print the result.
+5. Convert the byte value to float and print the result.
 
 
 
@@ -87,4 +87,5 @@ public class main{
 
 ## RESULT:
 The given program has been executed and verified successfully.
+
 
