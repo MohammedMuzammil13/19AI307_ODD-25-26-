@@ -67,8 +67,6 @@ public class ThreadPoolDouble {
 
 ```
 
-## SOURCE CODE:
-
 
 
 
@@ -76,8 +74,12 @@ public class ThreadPoolDouble {
 
 
 ## OUTPUT:
+<img width="450" height="383" alt="image" src="https://github.com/user-attachments/assets/1d721917-2f69-4d82-911b-636b3bcee2e2" />
+
 
 
 
 ## RESULT:
+The given program has been executed successfully.
+
 
